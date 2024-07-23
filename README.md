@@ -54,8 +54,6 @@ Technologies Used
 
 💡 LED (Light Emitting Diode): The primary output component that will visually indicate the system's operation.
 
-⚙️ Resistors: Typically ranging from 220Ω to 330Ω, these components will limit current to the LED, preventing damage.
-
 🧩 Breadboard: Used for prototyping the circuit without soldering, allowing for easy adjustments.
 
 🔌 Jumper Wires: Essential for making connections between components on the breadboard.
