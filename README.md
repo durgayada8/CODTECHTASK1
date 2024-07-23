@@ -20,6 +20,8 @@ Mentor: Neela Kumar
 
 
 
+
+
 Project Objective
 
 The primary objective of this project is to design and develop a specialized computing device within the framework of embedded systems. 
