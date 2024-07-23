@@ -1,6 +1,8 @@
 Project Overview: LED Blinking with Arduino
 
 
+
+
 Project Title: Illuminating Innovation with LED Blinking
 
 Participant: Durga Dilip Yadav
@@ -14,6 +16,9 @@ Domain: Embedded System
 Duration: 10th July to 10th August 2024
 
 Mentor: Neela Kumar
+
+
+
 
 Project Objective
 
